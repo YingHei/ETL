@@ -24,7 +24,6 @@
 
 An ETL project with python and SQL.
 
-<!--  
 
 ## Requirements
 
@@ -32,11 +31,13 @@ An ETL project with python and SQL.
 ### Library
 
 Python version: (python version)
-* [library](link)
-* [library](link)
-* [library](link)
+* xlsxwriter
+* zipfile
+* request
+* sqlalchemy
 
 
+<!--
 ## Usage
 
 1. 
