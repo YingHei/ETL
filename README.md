@@ -30,7 +30,7 @@ An ETL project with python and SQL.
 
 ### Library
 
-Python version: (python version)
+Python version: 3.8
 * xlsxwriter
 * zipfile
 * request
