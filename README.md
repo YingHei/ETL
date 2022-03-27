@@ -1,4 +1,4 @@
-# Project Title
+# ETL
   
   
 <!-- TABLE OF CONTENTS -->
@@ -21,6 +21,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+An ETL project with python and SQL.
 
 Details of the Project...
 
