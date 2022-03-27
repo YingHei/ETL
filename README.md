@@ -1,4 +1,4 @@
-# Project Title
+# ETL
   
   
 <!-- TABLE OF CONTENTS -->
@@ -22,20 +22,30 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Details of the Project...
+An ETL project with python and SQL.
+
 
 <!-- REQUIREMENTS -->
+
 ## Requirements
 
 <!-- LIBRARY -->
+
 ### Library
 
-Python version: (python version)
-* [library](link)
-* [library](link)
-* [library](link)
+Python version: 3.8
+* xlsxwriter
+* zipfile
+* request
+* sqlalchemy
 
-<!-- USAGE -->
+
+<!--
+
 ## Usage
 
 1. 
+
+-->
+ 
+
