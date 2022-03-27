@@ -25,8 +25,11 @@
 An ETL project with python and SQL.
 
 
+<!-- REQUIREMENTS -->
+
 ## Requirements
 
+<!-- LIBRARY -->
 
 ### Library
 
@@ -38,6 +41,7 @@ Python version: 3.8
 
 
 <!--
+
 ## Usage
 
 1. 
