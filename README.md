@@ -24,11 +24,11 @@
 
 An ETL project with python and SQL.
 
+<!--  
 
-<!-- REQUIREMENTS -->
 ## Requirements
 
-<!-- LIBRARY -->
+
 ### Library
 
 Python version: (python version)
@@ -36,7 +36,11 @@ Python version: (python version)
 * [library](link)
 * [library](link)
 
-<!-- USAGE -->
+
 ## Usage
 
 1. 
+
+-->
+ 
+
