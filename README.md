@@ -24,7 +24,6 @@
 
 An ETL project with python and SQL.
 
-Details of the Project...
 
 <!-- REQUIREMENTS -->
 ## Requirements
