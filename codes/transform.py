@@ -64,7 +64,7 @@ def truncate_table():
     And primary key (id) restarts from 1.
     """
     session.execute(
-        text("TRUNCATE TABLE ppr_raw_all;ALTER SEQUENCE ppr_raw_all_id_seq RESTART;")
+        text("TRUNCATE TABLE ppr_raw_all; ALTER SEQUENCE ppr_raw_all_id_seq RESTART;")
     )
     session.commit()
 

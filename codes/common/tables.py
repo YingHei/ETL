@@ -2,7 +2,7 @@ from sqlalchemy import Column, Integer, String, Date
 # Import the function required
 from sqlalchemy.orm import column_property
 
-from base import Base
+from common.base import Base
 
 class PprRawAll(Base):
     __tablename__ = "ppr_raw_all"
